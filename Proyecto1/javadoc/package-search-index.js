@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ipc1"},{"l":"com.ipc1.constructores"},{"l":"com.ipc1.modos"}];updateSearchResults();
